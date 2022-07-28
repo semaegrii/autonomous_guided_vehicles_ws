@@ -1,0 +1,2 @@
+egitim_araci:egitim_robotu_description:egitim_robotu_gazebo:slam_ve_navigasyon
+-DCATKIN_DEVEL_PREFIX=/home/user/Desktop/autonomous_guided_vehicles_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user/Desktop/autonomous_guided_vehicles_ws/install -G Unix Makefiles

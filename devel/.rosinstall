@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/user/Desktop/autonomous_guided_vehicles_ws/devel/setup.sh

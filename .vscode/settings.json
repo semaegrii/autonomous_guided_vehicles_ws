@@ -1,0 +1,11 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/user/Desktop/unmanned_guided_vehicles_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "cmake.sourceDirectory": "${workspaceFolder}/src/egitim_araci",
+    "python.analysis.extraPaths": [
+        "/home/user/Desktop/unmanned_guided_vehicles_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}

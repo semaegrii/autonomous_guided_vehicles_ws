@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/sema/rosCalismalarim/usv1_ws/devel/include/**",
+        "/home/sema/rosCalismalarim/usv_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/sema/rosCalismalarim/usv_ws/src/vrx/usv_gazebo_plugins/include/**",
+        "/home/sema/rosCalismalarim/usv_ws/src/vrx/vrx_gazebo/include/**",
+        "/home/sema/rosCalismalarim/usv_ws/src/vrx/wave_gazebo_plugins/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

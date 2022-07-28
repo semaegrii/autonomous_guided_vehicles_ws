@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://ros.org/wiki/xacro">
+  <xacro:macro name="egitim_robotu_taban">
+    <link name="base_footprint">
+      <collision>
+        <origin xyz="0 0 0" rpy="0 0 0"/>
+        <geometry>
+         <box size="0.6 0.4 0.3"/>
+        </geometry>
+      </collision>
+      <visual>
+        <origin xyz="0 0 0" rpy="0 0 0"/>
+        <geometry>
+         <box size="0.6 0.4 0.3"/>
+        </geometry>
+      </visual>
+      <xacro:box_inertial x="0.6" y="0.4" z="0.3" mass="10.0"/>
+    </link>
+    <gazebo reference="base_footprint">
+     <material value="Gazebo/Red"/>
+    </gazebo>
+  </xacro:macro>
+</robot>

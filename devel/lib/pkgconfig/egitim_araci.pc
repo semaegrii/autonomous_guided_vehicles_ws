@@ -1,0 +1,8 @@
+prefix=/home/user/Desktop/autonomous_guided_vehicles_ws/devel
+
+Name: egitim_araci
+Description: Description of egitim_araci
+Version: 0.0.0
+Cflags: -I/home/user/Desktop/autonomous_guided_vehicles_ws/devel/include
+Libs: -L${prefix}/lib -legitim_araci
+Requires: rospy geometry_msgs nav_msgs message_runtime

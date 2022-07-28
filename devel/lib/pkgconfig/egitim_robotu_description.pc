@@ -1,0 +1,8 @@
+prefix=/home/user/Desktop/autonomous_guided_vehicles_ws/devel
+
+Name: egitim_robotu_description
+Description: Description of egitim_robotu_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
